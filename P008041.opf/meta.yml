@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6958
   title: མའོ་ཙེ་ཏུང་གི་ལེགས་བཤད།
-  volume: ''
+  volume:
+    21fe2660b332408db3161552a818cf34:
+      image_group_id: I3CN6960
+      title: Volume 1 of ma'o tse tung gi legs bshad/
+      volume_number: 1
+      total_pages: 380
   author: ''
+ebook_metadata:
+  title: མའོ་ཙེ་ཏུང་གི་ལེགས་བཤད།
+  author: ''
+  sku: P008041
+  cover: cover.jpg
+  layers:
+  - pagination
