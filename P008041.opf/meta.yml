@@ -5,11 +5,12 @@ source_metadata:
   title: མའོ་ཙེ་ཏུང་གི་ལེགས་བཤད།
   author: ''
   volumes:
-    0a7de9ec862043ba9ab9295043fc4658:
+    21fe2660b332408db3161552a818cf34:
       image_group_id: I3CN6960
-      title: ''
+      title: Volume 1 of ma'o tse tung gi legs bshad/
       volume_number: 1
       total_pages: 380
+      base_file: v001.txt
 ebook_metadata:
   title: མའོ་ཙེ་ཏུང་གི་ལེགས་བཤད།
   author: ''
